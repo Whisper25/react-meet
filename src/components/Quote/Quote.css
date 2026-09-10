@@ -1,0 +1,18 @@
+
+.quote{
+    background-color: rgb(184, 184, 184);
+    border: 2px solid gray;
+    border-radius:8px;
+    max-width: 800px;
+    margin: auto;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+.quote>.text{
+    text-align: center;
+    font-style: italic;
+}
+.quote>.author{
+    text-align: right;
+    font-weight: bold;
+}
