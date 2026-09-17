@@ -1,0 +1,19 @@
+.song{
+    width:23%;
+    padding: 0.5em;
+    border-radius:1em;
+    border:1px solid gray;
+    text-align: center;
+    display: inline-block;
+    background-color:rgb(227, 227, 227);
+    margin: 0.5em;
+}
+.song:hover{
+    box-shadow: 2px 2px 5px gray;
+}
+.song img{
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius:50%;
+}
