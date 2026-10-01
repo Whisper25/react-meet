@@ -1,0 +1,11 @@
+.game{
+    min-width: 500px;
+    max-width: 1000px;
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+.variant{
+    padding: 1em;
+    margin: 0.5em;
+}

@@ -1,11 +1,9 @@
-import PlayList from "./components/PlayList/PlayList";
-import QuotesList from "./components/QuotesList/QuotesList";
 
+import Game from './components/Game/Game';
 function App() {
   return (
     <>
-      <PlayList/>
-      <QuotesList/>
+      <Game/> 
     </>
   );
 }
