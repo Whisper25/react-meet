@@ -1,0 +1,26 @@
+.heroSection{
+    max-width: 1000px;
+    text-align: center;
+    margin: auto;
+}
+.heroSection ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1em;
+}
+.heroSection ul li{
+    width: 30%;
+    min-width: 200px;
+    min-height: 200px;
+}
+.hero{
+    background-color: rgb(215, 215, 215);
+    border: 2px solid gray;
+    border-radius: 8px;
+    padding: 1em;
+    
+}

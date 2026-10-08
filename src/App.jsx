@@ -1,9 +1,9 @@
+import HeroesList from "./components/HeroesList/HeroesList";
 
-import Game from './components/Game/Game';
 function App() {
   return (
     <>
-      <Game/> 
+      <HeroesList/>
     </>
   );
 }
