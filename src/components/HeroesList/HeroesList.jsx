@@ -16,7 +16,7 @@ const HeroesList = () => {
     }
   };
   const showHero = (hero) => (
-    <li key={hero.id}>
+    (hero.name)&&<li key={hero.id}>
       <Hero
         changeRating={changeRating}
         hero={hero}

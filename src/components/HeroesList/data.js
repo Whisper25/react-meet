@@ -9,5 +9,6 @@ const heroes = [
   { id: 8, name: "Доктор Стрендж", power: 92, rating: 5 },
   { id: 9, name: "Соколине Око", power: 55, rating: 3 },
   { id: 10, name: "Чорна Вдова", power: 70, rating: 4 },
+  {id:11}
 ];
 export default heroes;
