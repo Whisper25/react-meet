@@ -1,0 +1,22 @@
+.section{
+    max-width: 1000px;
+    width: 95%;
+    margin:auto;
+    text-align: center;
+}
+.games{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5em;
+}
+.card{
+    flex-basis: 23%;
+    border-radius: 0.5em;
+    background-color: rgb(231, 231, 231);
+    padding: 0.5em;
+}
+.card button{
+    border: none;
+    background-color: transparent;
+}
